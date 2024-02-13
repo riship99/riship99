@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rishikesh
-- 👀 I’m interested in Devvelopment and cloud technologies
-- 🌱 I’m currently learning jenkins
+- 👀 I’m a DevOps Enthusiast and Developer, having exposure with multiple cloud technologies
+- 🌱 I’m currently exploring multiple technologies in the field of DevOps and Data Science.
 - 
 - 📫 You can reach me at rishikesh.pande99@gmail.com
 
